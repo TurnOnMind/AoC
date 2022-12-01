@@ -3,6 +3,8 @@
 #include <vector>
 #include <array>
 
+//Only 2 part
+
 #define FILENAME "./input"
 
 int main(){

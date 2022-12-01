@@ -26,7 +26,9 @@ int main(){
     }
     localSum += std::atoi(&input[0]);
   }
-  localSum = 0; 
-  std::cout << highest + second + third << std::endl;
+  
+  std::cout << "First part" << highest << std::endl;
+  std::cout << "Second part" << highest + second + third << std::endl;
+
   return 0;
 }
